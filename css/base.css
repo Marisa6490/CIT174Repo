@@ -1,0 +1,44 @@
+/* Basic page setup */
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ffffff;
+    color: #333333;
+    line-height: 1.6;
+}
+
+/* Headings */
+h1, h2, h3 {
+    margin-top: 0;
+    font-weight: bold;
+}
+
+/* Links */
+a {
+    text-decoration: none;
+    color: #0d1b2a;
+}
+
+a:hover {
+    color: #c9a227;
+}
+
+/* Lists */
+ul {
+    padding-left: 20px;
+}
+
+/* Images */
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+/* Form fields */
+input,
+textarea,
+button {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+}
